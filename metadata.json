@@ -1,0 +1,5 @@
+{
+  "name": "KakaoTalk Day Analyzer",
+  "description": "Analyzes your KakaoTalk chat logs for a specific day to automatically generate a personal diary or a structured schedule/to-do list using Gemini AI.",
+  "requestFramePermissions": []
+}
